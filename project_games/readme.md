@@ -26,3 +26,5 @@
 - оценка критиков (максимум 100 баллов);
 - оценка пользователей (максимум 10 баллов);
 - возрастной рейтинг организации ESRB (англ. Entertainment Spftware Rating Board).
+
+![analyst](https://user-images.githubusercontent.com/119577732/216283014-ab425b3a-44db-4d55-ad19-4bb304afad28.jpg)
