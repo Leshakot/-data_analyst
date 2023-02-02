@@ -29,3 +29,4 @@
 - площадь квартиры в квадратных метрах (м²)
 
 
+![analyst](https://user-images.githubusercontent.com/119577732/216283143-de9b9c88-ce7b-4acf-87ab-7ea9dc486a2f.jpg)
