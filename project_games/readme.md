@@ -27,4 +27,16 @@
 - оценка пользователей (максимум 10 баллов);
 - возрастной рейтинг организации ESRB (англ. Entertainment Spftware Rating Board).
 
+#### Навыки и инструменты
+A/B-тестирование,
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
+событийная аналитика,
+продуктовые метрики,
+Plotly,
+проверка статистических гипотез,
+визуализация данных
+
 ![analyst](https://user-images.githubusercontent.com/119577732/216283014-ab425b3a-44db-4d55-ad19-4bb304afad28.jpg)
